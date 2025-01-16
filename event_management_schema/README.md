@@ -1,4 +1,5 @@
 Smash Database Build - Purple Part
+
 This project is a relational database schema designed for managing events, achievements, restrictions, locations, and associated actions within a complex system. The schema is part of a larger collaborative effort and includes extensive look-up tables and transactional stored procedures to maintain data integrity and streamline data retrieval.
 
 Key Features:
